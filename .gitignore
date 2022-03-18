@@ -1,0 +1,19 @@
+# Configs
+*.txt
+
+# CMake и IDE
+*[Cc][Mm]ake*
+.project
+.idea/*
+*.kdev4*
+
+# Сборка, релиз и прошивки
+[Rr]elease*/*
+[Bb]uild*/*
+
+# Конфиги и результаты
+[Rr]esources/*
+[Rr]esults/*
+[Cc]onfigs/*
+[Pp]rofiles/*
+[Ss]cripts/*

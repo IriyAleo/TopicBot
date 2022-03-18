@@ -1,4 +1,4 @@
-# Configs
+﻿# Configs
 *.txt
 
 # CMake и IDE
@@ -6,6 +6,7 @@
 .project
 .idea/*
 *.kdev4*
+__pycache__*
 
 # Сборка, релиз и прошивки
 [Rr]elease*/*
